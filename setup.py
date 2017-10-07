@@ -25,7 +25,7 @@ import setupinfo
 from setuptools import setup, find_packages
 
 
-version = (0, 2, 'dev')
+version = (0, 3, 'dev')
 
 name = "RTMPy"
 description = "Twisted protocol for RTMP"
@@ -47,6 +47,7 @@ Programming Language :: Python :: 2.4
 Programming Language :: Python :: 2.5
 Programming Language :: Python :: 2.6
 Programming Language :: Python :: 2.7
+Programming Language :: Python :: 3.6.2
 Topic :: Software Development :: Libraries :: Python Modules
 """
 
